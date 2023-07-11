@@ -1,18 +1,8 @@
  body{
     margin: 0;
-    background-color: #6bcee2;
+    background-color: azure;
 
 }
-
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #78b7eb;
-  height: 660px;
-  width: 100vw;
-}
-
 
   .qr-code-container {
     text-align: center;
@@ -20,8 +10,10 @@
     width: 315px;
     border-radius: 20px;
     padding: 1em;
+    margin: 50px 500px;
   }
-  
+ 
+
   img {
     width: 280px;
     height: 280px;
